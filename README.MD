@@ -5,7 +5,7 @@ antisocial type) and we'll dive in!
 
 ## Language Selection
 There are quite a few languages on our list.  These are:
-
+```
   x86 assembly (as)
   python
   perl
@@ -34,7 +34,7 @@ There are quite a few languages on our list.  These are:
   ruby
   awk
   guile
-
+```
 This is by no means a comprehensive list of languages, but it is
 a list of most of the ones installed on the cs.maryvillecollege.edu
 server.  The 10 most popular languages are on the list, as well as
@@ -65,7 +65,7 @@ programs are:
 3. A program that asks for a starting point, an ending point, and an
    increment and counts accordingly  For instance, consider the
    following:
-
+```
    Start? 1
    Stop? 10
    Count By? 2
@@ -74,7 +74,7 @@ programs are:
    5
    7
    9
-
+```
 4. Your choice of one of the lab or programming assignments from
    CSC111 http://cs.maryvillecollege.edu/Intro_CS_I
 
